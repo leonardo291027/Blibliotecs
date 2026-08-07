@@ -4,7 +4,7 @@ Integrantes: Bianca e Leonardo Agripino<br>
 Tema: Biblioteca<br>
 Objetivo: Um aplicativo para ajudar na gestão de uma biblioteca<br>
 Tecnologias: C# e Banco de Dados<br>
-Descrição: Um aplicativo com o objetivo de oferecer suporte para uma biblioteca e clientes<br><br>
+Descrição: Um app para desktop que auxilia o gerenciamento de uma biblioteca, tanto na parte administrativa, gerenciando o cadastro de livros e controle de estoque, quanto na parte da freguesia, onde será possível visualizar a disponibilidade dos livros, o agendamento, e a devolução.<br><br>
 
 <h2>Requisitos Funcionais:</h2><br>
 -senhas<br>
@@ -19,9 +19,9 @@ Descrição: Um aplicativo com o objetivo de oferecer suporte para uma bibliotec
 -ver se não está disponível<br><br>
 
 <h2>Requisitos não Funcionais:</h2><br>
--Ver estoque de livros<br>
--ver perfil<br>
--ver a descrição do livro<br>
+-layout limpo e com pouca poluição visual<br>
+-personalização<br>
+-comentário<br>
 -agendar livro<br>
 -mudar nome de usuário<br><br>
 
