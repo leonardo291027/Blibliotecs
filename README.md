@@ -10,7 +10,7 @@ Descrição: Um app para desktop que auxilia o gerenciamento de uma biblioteca, 
 -senhas<br>
 -classificação<br>
 -cadastro<br>
--poder inserir livros<br>
+-inserção livros<br>
 -remover livros<br>
 -emprestar livros<br>
 -recuperação de senha<br>
