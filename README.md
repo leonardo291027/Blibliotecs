@@ -16,14 +16,14 @@ Descrição: Um app para desktop que auxilia o gerenciamento de uma biblioteca, 
 -recuperação de senha<br>
 -catalogo<br>
 -ver se está disponível<br>
--ver se não está disponível<br><br>
+-agendar livros<br><br>
 
 <h2>Requisitos não Funcionais:</h2><br>
 -layout limpo e com pouca poluição visual<br>
 -personalização<br>
 -comentário<br>
--agendar livro<br>
--mudar nome de usuário<br><br>
+-algoritimo de recomendação<br>
+-avaliação do livro<br><br>
 
 <h2>Quem vai usar:</h2><br>
 administradores de biblioteca e clientes<br><br>
@@ -45,4 +45,13 @@ Pode cadastrar ou remover livros<br>
 Se for usuário:<br>
 pode selecionar o gênero<br>
 pode ver se está ou não disponível<br>
-pode emprestar livros<br>
+pode emprestar livros<br><br>
+
+<h2>Telas</h2><br>
+
+-Login<br>
+-catalogo<br>
+-cadastro/remoção de livros<br>
+-visualização de estoque<br>
+-agendar<br>
+-recuperar senha<br>
