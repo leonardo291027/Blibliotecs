@@ -37,7 +37,7 @@ Desenvolver um aplicativo desktop intuitivo para auxiliar na gestão de bibliote
 * **Administrador:** Acesso total à gestão de estoque e cadastro de itens.
 * **Cliente:** Acesso à consulta de acervo, agendamento e disponibilidade.
 
----
+
 
 ## Diagrama de Caso de Uso
 
