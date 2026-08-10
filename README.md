@@ -36,26 +36,23 @@ Desenvolver um aplicativo desktop intuitivo para auxiliar na gestão de bibliote
 
 ```mermaid
 graph TD
-    classDef actor fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
-    classDef usecase fill:#f3e5f5,stroke:#7b1fa2,stroke-width:1px;
-
-    Admin[Administrador]:::actor
-    User[Cliente / Usuário]:::actor
+    Admin[Administrador]
+    User[Cliente / Usuário]
 
     subgraph Módulo de Acesso
-        UC_Login(Entrar no Sistema / Login):::usecase
-        UC_Recuperar(Recuperar Senha):::usecase
+        UC_Login(Entrar no Sistema / Login)
+        UC_Recuperar(Recuperar Senha)
     end
 
     subgraph Módulo de Consulta
-        UC_Catalogo(Navegar pelo Catálogo / Gênero):::usecase
-        UC_Disp(Verificar Disponibilidade):::usecase
-        UC_Agendar(Agendar / Emprestar Livro):::usecase
+        UC_Catalogo(Navegar pelo Catálogo / Gênero)
+        UC_Disp(Verificar Disponibilidade)
+        UC_Agendar(Agendar / Emprestar Livro)
     end
 
     subgraph Módulo Administrativo
-        UC_Estoque(Visualizar Estoque):::usecase
-        UC_Cadastro(Cadastro / Remoção de Livros):::usecase
+        UC_Estoque(Visualizar Estoque)
+        UC_Cadastro(Cadastro / Remoção de Livros)
     end
 
     Admin --> UC_Login
@@ -70,8 +67,6 @@ graph TD
     Admin --> UC_Disp
     Admin --> UC_Estoque
     Admin --> UC_Cadastro
-
-
 
 ```
 <h2>Telas</h2><br>
