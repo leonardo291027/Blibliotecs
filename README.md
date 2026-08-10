@@ -1,15 +1,15 @@
 
-<h2> #BIBLIOTEC</h2>
+<h1> #BIBLIOTEC</h1>
 
 Integrantes: Bianca e Leonardo Agripino<br>
 Tema: Biblioteca<br>
-<h2>Objetivo:</h2> Um aplicativo para ajudar na gestão de uma biblioteca<br><br>
-<h2>Tecnologias:</h2> C# e Banco de Dados<br><br>
-<h2>Descrição:</h2> Um app para desktop que auxilia o gerenciamento de uma biblioteca, tanto na parte administrativa, gerenciando o cadastro de livros e controle de estoque, quanto na parte da freguesia, onde será possível visualizar a disponibilidade dos livros, o agendamento, e a devolução.<br><br>
+<h3>Objetivo:</h3> Um aplicativo para ajudar na gestão de uma biblioteca<br><br>
+<h3>Tecnologias:</h3> C# e Banco de Dados<br><br>
+<h3>Descrição:</h3> Um app para desktop que auxilia o gerenciamento de uma biblioteca, tanto na parte administrativa, gerenciando o cadastro de livros e controle de estoque, quanto na parte da freguesia, onde será possível visualizar a disponibilidade dos livros, o agendamento, e a devolução.<br><br>
 
 
 
-<h2>Requisitos Funcionais:</h2><br>
+<h3>Requisitos Funcionais:</h3><br>
 -senhas<br>
 -classificação<br>
 -cadastro<br>
@@ -21,7 +21,7 @@ Tema: Biblioteca<br>
 -ver se está disponível<br>
 -agendar livros<br><br>
 
-<h2>Requisitos não Funcionais:</h2><br>
+<h3>Requisitos não Funcionais:</h3><br>
 -layout limpo e com pouca poluição visual<br>
 -personalização<br>
 -comentário<br>
@@ -35,7 +35,7 @@ Tema: Biblioteca<br>
 
 
 
-## Diagrama de Caso de Uso
+<h3> Diagrama de Caso de Uso</h3>
 
 ```mermaid
 graph TD
@@ -72,7 +72,7 @@ graph TD
     Admin --> UC_Cadastro
 
 ```
-<h2>Telas</h2><br>
+<h3>Telas</h3><br>
 
 -Login<br>
 -catalogo<br>
