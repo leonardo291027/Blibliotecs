@@ -1,15 +1,11 @@
 # BIBLIOTEC
+#<h2> BIBLIOTEC</h2>
 
-**Integrantes:** Bianca e Leonardo Agripino  
-**Tema:** Gestão de Biblioteca  
-**Tecnologias:** C# e Banco de Dados  
-
----
-
-## Objetivo
-Desenvolver um aplicativo desktop intuitivo para auxiliar na gestão de bibliotecas. O sistema atende tanto a administração — gerenciando o cadastro de livros e controle de estoque — quanto os clientes, permitindo consultar o catálogo, verificar disponibilidade e realizar agendamentos.
-
----
+Integrantes: Bianca e Leonardo Agripino<br>
+Tema: Biblioteca<br>
+Objetivo: Um aplicativo para ajudar na gestão de uma biblioteca<br>
+Tecnologias: C# e Banco de Dados<br>
+Descrição: Um app para desktop que auxilia o gerenciamento de uma biblioteca, tanto na parte administrativa, gerenciando o cadastro de livros e controle de estoque, quanto na parte da freguesia, onde será possível visualizar a disponibilidade dos livros, o agendamento, e a devolução.<br><br>
 
 ## Requisitos do Sistema
 
