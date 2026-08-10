@@ -27,7 +27,7 @@ Tema: Biblioteca<br>
 -comentário<br>
 -algoritimo de recomendação<br>
 -avaliação do livro<br><br>
----
+
 
 ## Perfis de Usuário
 * **Administrador:** Acesso total à gestão de estoque e cadastro de itens.
