@@ -13,17 +13,24 @@ Desenvolver um aplicativo desktop intuitivo para auxiliar na gestão de bibliote
 
 ## Requisitos do Sistema
 
-### Requisitos Funcionais (RF)
-* **Autenticação:** Login seguro e recuperação de senha.
-* **Gestão de Acervo:** Cadastro, edição, inserção e remoção de livros.
-* **Consulta e Catálogo:** Visualização organizada com filtros por gênero e status de disponibilidade.
-* **Operações de Usuário:** Empréstimo e agendamento de livros.
+<h2>Requisitos Funcionais:</h2><br>
+-senhas<br>
+-classificação<br>
+-cadastro<br>
+-inserção livros<br>
+-remover livros<br>
+-emprestar livros<br>
+-recuperação de senha<br>
+-catalogo<br>
+-ver se está disponível<br>
+-agendar livros<br><br>
 
-### Requisitos Não Funcionais (RNF)
-* **Design:** Layout limpo e com poluição visual reduzida.
-* **Experiência do Usuário:** Algoritmo de recomendação, sistema de avaliação de livros e campos de comentários.
-* **Personalização:** Opções para ajustar a interface conforme a necessidade.
-
+<h2>Requisitos não Funcionais:</h2><br>
+-layout limpo e com pouca poluição visual<br>
+-personalização<br>
+-comentário<br>
+-algoritimo de recomendação<br>
+-avaliação do livro<br><br>
 ---
 
 ## Perfis de Usuário
