@@ -70,3 +70,16 @@ graph TD
     Admin --> UC_Disp
     Admin --> UC_Estoque
     Admin --> UC_Cadastro
+
+
+
+```
+<h2>Telas</h2><br>
+
+-Login<br>
+-catalogo<br>
+-cadastro/remoção de livros<br>
+-visualização de estoque<br>
+-agendar<br>
+-recuperar senha<br>
+Aplique aqui
