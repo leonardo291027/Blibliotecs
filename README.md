@@ -34,18 +34,32 @@ administradores de biblioteca e clientes<br><br>
 Entrar no sistema<br>
 escolher se é administrador ou cliente<br><br>
 
-Se for administrador:<br>
-Vai para a aba de livros<br>
-Pode escolher qual gênero<br>
-Pode ver qual livro está ou não disponível<br>
-Pode ir na aba de cadastro<br>
-Pode ver o estoque de livros<br>
-Pode cadastrar ou remover livros<br>
+graph TD
+    subgraph Sistema de Biblioteca
+        UC1[Visualizar Livros por Gênero]
+        UC2[Verificar Disponibilidade]
+        UC3[Emprestar Livro]
+        UC4[Acessar Aba de Cadastro]
+        UC5[Visualizar Estoque]
+        UC6[Cadastrar Livro]
+        UC7[Remover Livro]
+    end
 
-Se for usuário:<br>
-pode selecionar o gênero<br>
-pode ver se está ou não disponível<br>
-pode emprestar livros<br><br>
+    User((Usuário))
+    Admin((Administrador))
+
+    User --> UC1
+    User --> UC2
+    User --> UC3
+
+    Admin --> UC1
+    Admin --> UC2
+    Admin --> UC3
+    Admin --> UC4
+    Admin --> UC5
+    Admin --> UC6
+    Admin --> UC7
+
 
 <h2>Telas</h2><br>
 
