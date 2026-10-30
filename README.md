@@ -24,9 +24,9 @@ Tema: Biblioteca<br>
 <h3>Requisitos não Funcionais:</h3><br>
 -layout limpo e com pouca poluição visual<br>
 -personalização<br>
--comentário<br>
+layout visual e intuitivo<br>
 -algoritimo de recomendação<br>
--avaliação do livro<br><br>
+-filtros dinamicos<br><br>
 
 
 ## Perfis de Usuário
